@@ -82,7 +82,7 @@
                               @elseif ($row->status->status_name === 'Completed')
                               <span class="badge bg-success">Completed</span>
                               @elseif ($row->status->status_name === 'Rejected')
-                              <i class="mdi mdi-circle text-danger"></i> Rejected
+                              <i class="mdi mdi-circle text-danger"></i> Rejecte
                               @endif
                           </td>
               
